@@ -1,1 +1,1 @@
-# udacity_DataAnalystNanoDegree
+# Data Analyst Nano Degree Projects
